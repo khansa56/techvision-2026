@@ -77,3 +77,28 @@ The site features a modern gradient hero section, smooth navigation, an event sc
 ---
 
 ## 🗂️ Project Structure
+---
+
+## 🗂️ Project Structure
+
+```text
+techvision-2026/
+│
+├── index.html          → 🏠 Home page (hero + highlights)
+├── about.html          → ℹ️ Event overview & themes
+├── schedule.html       → 📅 Event programme + PDF
+├── contact.html        → ✉️ Contact & registration form
+│
+├── css/
+│   └── style.css       → 🎨 All responsive styling
+│
+├── js/
+│   └── script.js       → ⚡ Menu toggle + form logic
+│
+├── images/
+│   └── logo.svg        → 🖼️ Project logo
+│
+├── documents/
+│   └── schedule.pdf    → 📑 Sample programme PDF
+│
+└── README.md           → 📘 Project documentation
